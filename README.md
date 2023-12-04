@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Frasier</h1>
 <h3 align="center">A passionate React Developer / University Student / Software Engineer Based in Perth</h3>
 
-- 🔭 I’m currently working on **MU Row**
+- 🔭 I’m currently working on [My Resume Website](https://github.com/Fozzyack/myResume)
 
 - 🌱 I’m currently learning **ReactJS Libraries and .NET Frameworks**
+
+- 👨‍💻 All of my projects are available at [frasier-sundra.netlify.app](frasier-sundra.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
