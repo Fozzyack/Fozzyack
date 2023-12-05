@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS Libraries and .NET Frameworks**
 
-- 👨‍💻 All of my projects are available at [frasier-sundra.netlify.app](https://frasier-sundra.netlify.app)
+- 👨‍💻 View my portfolio @ [frasier-sundra.netlify.app](https://frasier-sundra.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
