@@ -7,6 +7,8 @@
 
 - 👨‍💻 View my portfolio @ [frasier-sundra.netlify.app](https://frasier-sundra.netlify.app)
 
+- Current goal (as of December 2023): 500 commits / 3 months
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/fozzyack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fozzyack" height="30" width="40" /></a>
