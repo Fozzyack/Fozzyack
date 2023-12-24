@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Active Orange](https://github.com/Fozzyack/activeorange) a fitness Tracker as well as [MidnightMari](https://github.com/Fozzyack/JapApp) A japanese language learning app.
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS**, **Typescript**, **TailwindCSS**
 
 - 👨‍💻 View my portfolio @ [frasier-sundra.netlify.app](https://frasier-sundra.netlify.app)
 
