@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frasier</h1>
 <h3 align="center">A passionate React Developer / University Student / Software Engineer Based in Perth</h3>
 
-- 🔭 I’m currently working on [My Resume Website](https://github.com/Fozzyack/myResume)
+- 🔭 I’m currently working on [Active Orange](https://github.com/Fozzyack/activeorange) a fitness Tracker as well as [MidnightMari](https://github.com/Fozzyack/jap-app)
 
-- 🌱 I’m currently learning **ReactJS Libraries and .NET Frameworks**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 View my portfolio @ [frasier-sundra.netlify.app](https://frasier-sundra.netlify.app)
 
