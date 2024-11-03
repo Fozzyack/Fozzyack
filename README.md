@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **NextJS**, **Typescript**, **TailwindCSS**
 
 - 👨‍💻 View my portfolio @ [frasier-sundra.netlify.app](https://frasier-sundra.netlify.app)
-
-- Current goal (as of December 2023): 500 commits every 3 months -- Green Square Addiction
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
