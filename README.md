@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frasier</h1>
 <h3 align="center">A passionate React Developer / University Student / Software Engineer Based in Perth</h3>
 
-- 🔭 I’m currently working on [Active Orange](https://github.com/Fozzyack/activeorange), [MidnightMari](https://github.com/Fozzyack/JapApp) and [A Sample Nail Salon Web Page](https://github.com/Fozzyack/nailpage).
+- 🔭 
 
 - 🌱 I’m currently learning **NextJS**, **Typescript**, **TailwindCSS**
 
