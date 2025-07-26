@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building a local running password manager**
 
-- 🌱 I’m currently learning **C++ and Cybersecurity**
+- 🌱 I’m currently learning **C++**
 
 - 🤝 I’m looking for help with **Finding a job**
 
