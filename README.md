@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frasier</h1>
 <h3 align="center">A recent University Graduate who loves coding and linux.</h3>
 
-- 🔭 I’m currently working on **Building a local running password manager**
+- 🔭 I’m currently working on **Building a Virtual Powerplant**
 
-- 🌱 I’m currently learning **C++**
-
-- 🤝 I’m looking for help with **Finding a job**
+- 🌱 I’m currently learning **React, dotnet, C++**
 
 - 📫 How to reach me **fsundra@gmail.com**
 
