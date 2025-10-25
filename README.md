@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building a Virtual Powerplant**
 
-- 🌱 I’m currently learning **React, dotnet, C++**
+- 🌱 I’m currently learning **React, dotnet, C++** (Zig coming soon....)
 
 - 📫 How to reach me **fsundra@gmail.com**
 
