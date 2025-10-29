@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Frasier</h1>
-<h3 align="center">A recent University Graduate who loves coding and linux.</h3>
+<h1 align="center">Frasier</h1>
+<h3 align="center">University Graduate whose a Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on **Building a Virtual Powerplant**
+- 🔭 I’m currently working on **Building a Keyboard**
 
 - 🌱 I’m currently learning **React, dotnet, C++** (Zig coming soon....)
 
@@ -9,7 +9,10 @@
 
 - ⚡ Fun fact **Serial Neovim User (Split Ergo Keyboard)**
 
-Currently Building (I know I have put the controllers in the wrong way, feelsbadman):
+<h3 align="left">Currently Building:</h3>
+- I have put the controllers on face up instead of facedown (feelsbadman ;-;)
+- (Layout) Corne
+- (Switches) Gateron Oil Kings
 ![Split Corne Keyboard Work in Progress](./keyboard_wip_resize.jpg)
 
 <h3 align="left">Connect with me:</h3>
