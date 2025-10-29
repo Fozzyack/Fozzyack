@@ -7,7 +7,7 @@
 
 - 📫 How to Reach Me: **fsundra@gmail.com**
 
-- ⚡ Fun Fact: ** Currently Listening to Medieval Tavern Music When Coding**
+- ⚡ Fun Fact: **Currently Listening to Medieval Tavern Music When Coding**
 
 - 💡 “Works on my machine” is my favorite debugging mantra
 
