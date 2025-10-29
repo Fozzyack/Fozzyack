@@ -28,7 +28,7 @@
 
 <h3 align="left">Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fozzyack&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fozzyack&show_icons=true&theme=radical&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
