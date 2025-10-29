@@ -1,17 +1,23 @@
 <h1 align="center">Frasier</h1>
 <h3 align="center">University Graduate whose a Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on **Building a Keyboard**
+- 🔭 I’m currently Working on: **Building a Keyboard**
 
-- 🌱 I’m currently learning **React, dotnet, C++** (Zig coming soon....)
+- 🌱 I’m currently Learning: **React, dotnet, C++** (Zig coming soon....)
 
-- 📫 How to reach me **fsundra@gmail.com**
+- 📫 How to Reach Me: **fsundra@gmail.com**
 
-- ⚡ Fun fact **Serial Neovim User (Split Ergo Keyboard)**
+- ⚡ Fun Fact: ** Currently Listening to Medieval Tavern Music When Coding**
+
+- 💡 “Works on my machine” is my favorite debugging mantra
+
+- 🧾 IDE theme: Dark mode (because light attracts bugs 🪲)
+
+- **Vim User btw**
 
 <h3 align="left">Currently Building:</h3>
 
-- I have put the controllers on face up instead of facedown (feelsbadman ;-;)
+- I have put the controllers on face up instead of facedown ( feelsbadman ;-; )
 
 - (Layout) Corne
 
