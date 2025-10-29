@@ -9,6 +9,9 @@
 
 - ⚡ Fun fact **Serial Neovim User (Split Ergo Keyboard)**
 
+Currently Building:
+![Split Corne Keyboard Work in Progress](./keyboard_wip.jpg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/frasier-sundra-79a323165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frasier-sundra" height="30" width="40" /></a>
