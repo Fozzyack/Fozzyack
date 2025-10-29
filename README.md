@@ -13,7 +13,8 @@
 
 - 🧾 IDE theme: Dark mode (because light attracts bugs 🪲)
 
-- **Vim User btw**
+> [!IMPORTANT]
+> **Vim User btw**
 
 <h3 align="left">Currently Building:</h3>
 
