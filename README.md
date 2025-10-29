@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact **Serial Neovim User (Split Ergo Keyboard)**
 
-Currently Building:
-![Split Corne Keyboard Work in Progress](./keyboard_wip.jpg)
+Currently Building (I know I have put the controllers in the wrong way, feelsbadman):
+![Split Corne Keyboard Work in Progress](./keyboard_wip_resize.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
