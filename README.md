@@ -10,8 +10,11 @@
 - ⚡ Fun fact **Serial Neovim User (Split Ergo Keyboard)**
 
 <h3 align="left">Currently Building:</h3>
+
 - I have put the controllers on face up instead of facedown (feelsbadman ;-;)
+
 - (Layout) Corne
+
 - (Switches) Gateron Oil Kings
 
 ![Split Corne Keyboard Work in Progress](./keyboard_wip_resize.jpg)
