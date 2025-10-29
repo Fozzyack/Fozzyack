@@ -13,6 +13,7 @@
 - I have put the controllers on face up instead of facedown (feelsbadman ;-;)
 - (Layout) Corne
 - (Switches) Gateron Oil Kings
+
 ![Split Corne Keyboard Work in Progress](./keyboard_wip_resize.jpg)
 
 <h3 align="left">Connect with me:</h3>
