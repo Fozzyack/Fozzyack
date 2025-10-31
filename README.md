@@ -18,7 +18,7 @@
 
 <h3 align="left">Currently Building:</h3>
 
-- I have put the controllers on face up instead of facedown ( feelsbadman ;-; )
+- I have put the controllers on face up instead of facedown ( feelsbadman ;-; ).
 
 - (Layout) Corne
 
