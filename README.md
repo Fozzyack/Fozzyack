@@ -24,7 +24,7 @@
 
 - (Switches) Gateron Oil Kings
 
-![Split Corne Keyboard Work in Progress](./keyboard_wip_resize.jpg)
+![Split Corne Keyboard Work in Progress](./keyboard_working_bluetooth_resize.jpg)
 
 <h3 align="left">Stats:</h3>
 
