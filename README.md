@@ -24,7 +24,7 @@
 
 - (Switches) Gateron Oil Kings
 
-- (controllers) nice!nano v2
+- (controllers) nice!nano v2 - though will be moving to wired in the future.
 
 ![Split Corne Keyboard Work in Progress](./keyboard_working_bluetooth_resize.jpg)
 
