@@ -20,9 +20,11 @@
 
 - I have put the controllers on face up instead of facedown ( feelsbadman ;-; ).
 
-- (Layout) Corne
+- (Layout) Corne v3 
 
 - (Switches) Gateron Oil Kings
+
+- (controllers) nice!nano v2
 
 ![Split Corne Keyboard Work in Progress](./keyboard_working_bluetooth_resize.jpg)
 
