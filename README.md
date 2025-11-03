@@ -20,11 +20,11 @@
 
 - I have put the controllers on face up instead of facedown ( feelsbadman ;-; ).
 
-- (Layout) Corne v3 
+- **(Layout)** Corne v3 
 
-- (Switches) BSUN x KeebHut Tropical Waters v3 linear Switches 
+- **(Switches)** _BSUN x KeebHut_ Tropical Waters v3 linear Switches 
 
-- (controllers) nice!nano v2 - though will be moving to wired in the future
+- **(controllers)** nice!nano v2 - though will be moving to wired in the future
 
 ![Split Corne Keyboard Work in Progress](./keyboard_working_bluetooth_resize.jpg)
 
