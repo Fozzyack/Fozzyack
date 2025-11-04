@@ -1,5 +1,5 @@
 <h1 align="center">Frasier</h1>
-<h3 align="center">University Graduate whose a Tech Enthusiast</h3>
+<h3 align="center">University Graduate | Tech Enthusiast</h3>
 
 - 🔭 I’m currently Working on: **Building a Keyboard**
 
