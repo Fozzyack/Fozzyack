@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Working on: **Building a Keyboard**
 
-- 🌱 I’m currently Learning: **React, dotnet, C++** (Zig coming soon....)
+- 🌱 I’m currently Learning: **React, dotnet, C++** (Zig or Rust coming soon....)
 
 - 📫 How to Reach Me: **fsundra@gmail.com**
 
