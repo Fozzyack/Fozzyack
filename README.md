@@ -18,8 +18,6 @@
 
 <h3 align="left">Currently Building:</h3>
 
-- I have put the controllers on face up instead of facedown ( feelsbadman ;-; ).
-
 - **(Layout)** Corne v3 
 
 - **(Switches)** _BSUN x KeebHut_ Tropical Waters v3 linear Switches 
