@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently Learning: **C** (Rust or Zig coming soon....)
 
+    - Currently Learning the ins and outs of 💀**XXXXXXXX Development**💀
+
 - 📫 How to Reach Me: **fsundra@gmail.com**
 
 - ⚡ Fun Fact: **Currently Listening to Medieval Tavern Music When Coding**
