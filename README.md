@@ -1,9 +1,11 @@
 <h1 align="center">Frasier</h1>
-<h3 align="center">University Graduate whose a Tech Enthusiast</h3>
+<h3 align="center">University Graduate | Tech Enthusiast</h3>
 
 - 🔭 I’m currently Working on: **Building a Keyboard**
 
-- 🌱 I’m currently Learning: **React, dotnet, C++** (Zig coming soon....)
+- 🌱 I’m currently Learning: **C** (Rust or Zig coming soon....)
+
+    - Currently Learning the ins and outs of 💀**XXXXXXXX Development**💀
 
 - 📫 How to Reach Me: **fsundra@gmail.com**
 
@@ -17,8 +19,6 @@
 > **Vim User btw**
 
 <h3 align="left">Currently Building:</h3>
-
-- I have put the controllers on face up instead of facedown ( feelsbadman ;-; ).
 
 - **(Layout)** Corne v3 
 
