@@ -7,7 +7,7 @@
 
 - 📫 How to Reach Me: **fsundra@gmail.com**
 
-- ⚡ Fun Fact: **Currently Listening to Medieval Tavern Music When Coding**
+- ⚡ Fun Fact: **Vim > Emacs > VSCode**
 
 - 💡 “Works on my machine” is my favorite debugging mantra
 
@@ -24,7 +24,9 @@
 
 - **(Switches)** _BSUN x KeebHut_ Tropical Waters v3 linear Switches 
 
-- **(controllers)** nice!nano v2 - though will be moving to wired in the future
+- **(controllers)** nice!nano v2 - though will be moving to wired (pro micro w/QMK) in the future
+
+- **(RGB)** Currently Adding Backlighting and Underglow
 
 ![Split Corne Keyboard Work in Progress](./keyboard_working_bluetooth_resize.jpg)
 
