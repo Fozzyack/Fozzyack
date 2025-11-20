@@ -32,8 +32,6 @@
 <p align="center">Currently A work in progress...</p>
 <p align="center">(Will post final product when finished)</p>
 
-<h3 align="left">Stats:</h3>
-
 ![dancing_gif](./bug.gif)
 
 <h3 align="left">Connect with me:</h3>
