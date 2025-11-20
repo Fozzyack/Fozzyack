@@ -34,7 +34,7 @@
 
 <h3 align="left">Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fozzyack&show_icons=true&theme=radical&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![dancing_gif](./bug.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
