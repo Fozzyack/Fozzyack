@@ -15,7 +15,7 @@
 
 - 🧾 IDE theme: Dark mode (because light attracts bugs 🪲)
 
-- I'm currently helping Coders For Causes with their Summer Projects
+- Coders For Causes Summer Project Volunteer
 
 > [!IMPORTANT]
 > **Vim User btw**
