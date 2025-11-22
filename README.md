@@ -1,9 +1,9 @@
 <h1 align="center">Frasier</h1>
 <h3 align="center">SWE Intern | Tech Enthusiast</h3>
 
-- 🔭 I’m currently Working on: **Building a Keyboard**
+- 🔭 I’m currently Working on: **Building a HTTP Server in C**
 
-- 🌱 I’m currently Learning: **C** (Rust or Zig coming soon....)
+- 🌱 I’m currently Learning: **C** (and Django)
 
     - Currently Learning the ins and outs of 💀**XXXXXXXX Development**💀
 
@@ -14,6 +14,8 @@
 - 💡 “Works on my machine” is my favorite debugging mantra
 
 - 🧾 IDE theme: Dark mode (because light attracts bugs 🪲)
+
+- I'm currently helping Coders For Causes with their Summer Projects
 
 > [!IMPORTANT]
 > **Vim User btw**
