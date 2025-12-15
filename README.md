@@ -31,9 +31,11 @@
 
 - **(RGB)** Currently Adding Backlighting and Underglow
 
-- Will update photo when finished
 
 ![Split Corne Keyboard Work in Progress](./keyboard_working_bluetooth_resize.jpg)
+
+> [!NOTE]
+> New keyboard build in progres
 
 
 <h3 align="left">Connect with me:</h3>
