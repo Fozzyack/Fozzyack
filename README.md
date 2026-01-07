@@ -21,7 +21,7 @@
 > [!IMPORTANT]
 > **Vim User btw**
 
-<h3 align="left">Currently Building:</h3>
+<h3 align="left">Currently Building 2 Split Corne Keyboards:</h3>
 
 - **(Layout)** Corne v3 
 
