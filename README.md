@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently Working on: **Building a HTTP Server in C**
 
-- 🌱 I’m currently Learning: **C** (and Django)
-
-    - Currently Learning the ins and outs of 💀**XXXXXXXX Development**💀
+- 🌱 I’m currently Learning: **Go** and **C**
 
 - 📫 How to Reach Me: **fsundra@gmail.com**
 
