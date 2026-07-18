@@ -21,15 +21,7 @@
 > [!IMPORTANT]
 > **Vim User btw**
 
-<h3 align="left">Currently Building 2 Split Corne Keyboards:</h3>
-
-- **(Layout)** Corne v3 
-
-- **(Switches)** _BSUN x KeebHut_ Tropical Waters v3 linear Switches 
-
-- **(controllers)** nice!nano v2 - though will be moving to wired (pro micro w/QMK) in the future
-
-- **(RGB)** Currently Adding Backlighting and Underglow
+<h3 align="left">My Coding Keyboards:</h3>
 
 
 ![Split Corne Keyboard Work in Progress](./keyboard_working_bluetooth_resize.jpg)
