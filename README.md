@@ -34,6 +34,9 @@
 
 ![Split Corne Keyboard Work in Progress](./keyboard_working_bluetooth_resize.jpg)
 
+
+![Split Corne Keyboard Work in Progress](./keyboard2_resize.jpg)
+
 > [!NOTE]
 > New keyboard build in progres
 
