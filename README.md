@@ -1,8 +1,7 @@
 <h1 align="center">Frasier</h1>
 <h3 align="center">SWE Intern | Tech Enthusiast</h3>
-<p align="center"> (Moving to self-hosted git tea?) </p>
 
-- 🔭 I’m currently Working on: **Building a HTTP Server in C**
+- 🔭 I’m currently Working on: **Building a Virtual Powerplant for Renewable Energy Devices**
 
 - 🌱 I’m currently Learning: **Go** and **C**
 
@@ -13,6 +12,8 @@
 - 💡 “Works on my machine” is my favorite debugging mantra
 
 - 🧾 IDE theme: Dark mode (because light attracts bugs 🪲)
+
+- 🎨 Current Hobby: **Learning Pixel Art . ݁₊ ⊹ . ݁˖ . ݁**
 
 - Coders For Causes Summer Project Volunteer
 
