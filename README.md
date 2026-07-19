@@ -15,7 +15,7 @@
 
 - 🎨 Current Hobby: **Learning Pixel Art . ݁₊ ⊹ . ݁˖ . ݁**
 
-- Coders For Causes Summer Project Volunteer
+- Coders For Causes Web Project Volunteer and Helper
 
 > [!IMPORTANT]
 > **Vim User btw**
