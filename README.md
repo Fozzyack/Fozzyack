@@ -1,5 +1,5 @@
 <h1 align="center">Frasier</h1>
-<h3 align="center">SWE Intern | Tech Enthusiast</h3>
+<h3 align="center">SWE | Tech Enthusiast</h3>
 
 - 🔭 I’m currently Working on: **Building a Virtual Powerplant for Renewable Energy Devices**
 
