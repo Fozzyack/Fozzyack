@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Editor-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim user" />
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">🔭 <strong>Currently working on</strong><br />Building a Virtual Powerplant for Renewable Energy Devices</td>
     <td width="50%">🌱 <strong>Currently learning</strong><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="22" height="22" /> C &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" alt="Zig" width="22" height="22" /> Zig</td>
@@ -25,6 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coders%20For%20Causes-Volunteer%20%26%20Helper-7C3AED?style=flat-square" alt="Coders For Causes volunteer and helper" />
+  <img src="https://img.shields.io/badge/WADSIH-Healthcare%20Hackathon%20Participant-EC4899?style=flat-square" alt="WADSIH healthcare hackathon participant" />
 </p>
 
 <h2>⌨️ My Coding Keyboards</h2>
@@ -40,7 +41,7 @@
 
 <h2>🤝 Connect with me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/frasier-sundra-79a323165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frasier-sundra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/frasier-sundra-79a323165"><img src="https://img.shields.io/badge/LinkedIn-Frasier%20Sundra-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Frasier on LinkedIn" /></a>
 <a href="mailto:fsundra@gmail.com"><img src="https://img.shields.io/badge/fsundra%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Frasier" /></a>
 </p>
 
