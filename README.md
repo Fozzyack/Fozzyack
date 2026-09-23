@@ -5,6 +5,7 @@
   <a href="mailto:fsundra@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Frasier" /></a>
   <a href="https://linkedin.com/in/frasier-sundra-79a323165"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Editor-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim user" />
+  <img src="https://img.shields.io/badge/Theme-Dark%20mode-181717?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="Dark mode theme" />
 </p>
 
 <table align="center">
@@ -18,10 +19,13 @@
   </tr>
 </table>
 
-> 💡 “Works on my machine” is my favorite debugging mantra. My IDE theme is dark mode, because light attracts bugs 🪲
+> 💡 “Works on my machine” is my favorite debugging mantra.
 
-> [!IMPORTANT]
-> **Vim user btw.**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="24" height="24" />
+  <strong>Vim user btw.</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" width="24" height="24" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coders%20For%20Causes-Volunteer%20%26%20Helper-7C3AED?style=flat-square" alt="Coders For Causes volunteer and helper" />
