@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <td width="50%">🔭 <strong>Currently working on</strong><br />Building a Virtual Powerplant for Renewable Energy Devices</td>
-    <td width="50%">🌱 <strong>Currently learning</strong><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="22" height="22" /> C &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" alt="Zig" width="22" height="22" /> Zig</td>
+    <td width="50%">🌱 <strong>Currently learning</strong><br /><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" alt="Zig" /></td>
   </tr>
   <tr>
     <td>🎨 <strong>Current hobby</strong><br />Playing around with STM32 and FPGA microcontrollers</td>
